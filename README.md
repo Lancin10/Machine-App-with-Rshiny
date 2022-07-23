@@ -1,4 +1,4 @@
-# Machine-App-with-Rshiny
+# Machine-Learning-App-with-Rshiny
 The project consists in creating a web app with the RShiny framework. The application must allow users to analyze their data, do data visualization, data exploration. The app  also allows users to use machine learning algorithms of their choice to make their prediction.
 
 This is the link to see and use the App:
